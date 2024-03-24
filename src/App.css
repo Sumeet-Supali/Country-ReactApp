@@ -1,0 +1,31 @@
+.subheading{
+  display: flex;
+  justify-content: space-between;
+  padding: 28px;
+  gap: 10px;
+  align-items: center;
+}
+
+.main{
+  width: 100%;
+  height: auto;
+}
+
+.dark{
+  background-color: rgb(56, 51, 92);
+  color: white;
+}
+
+.light{
+  background-color: rgb(206, 168, 97);
+}
+p{
+  cursor: pointer;
+}
+.icon{
+  cursor: pointer;
+  width: 19px;
+  height: 19px;
+}
+
+

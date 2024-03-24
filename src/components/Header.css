@@ -1,0 +1,8 @@
+.Nav{
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+  align-items: center;
+  background-color: rgb(60, 51, 51);
+  color: aliceblue;
+}
